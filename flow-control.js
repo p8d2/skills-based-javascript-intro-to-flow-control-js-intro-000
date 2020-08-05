@@ -2,6 +2,7 @@ function basicTeenager(age) {
 if (age >12 && <20) {
 console.log("You are a teenager!") {
 }
+basicTeenager('14')
 
 function teenager(age) {
 if (age >13 && <19) {
@@ -18,4 +19,4 @@ function ternaryTeenager(age) {
 
 function switchAge(age) {
 
-basicTeenager('14')
+
