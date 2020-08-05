@@ -18,4 +18,4 @@ function ternaryTeenager(age) {
 
 function switchAge(age) {
 
-basicTeenager(14)
+basicTeenager('14')
